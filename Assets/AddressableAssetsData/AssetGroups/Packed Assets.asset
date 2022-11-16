@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: bb8a9b39d84ed1b4d86c4f4197217fdc
   m_SerializeEntries:
   - m_GUID: a7f17e63a82df104f938ad5aedf8e8d7
-    m_Address: Assets/DogMat.mat
+    m_Address: Red
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: cd5cb38f13fa5c1419e4eb4179667f18

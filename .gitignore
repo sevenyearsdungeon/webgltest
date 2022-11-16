@@ -9,3 +9,5 @@
 /UserSettings
 /WebGLTesting.sln
 /.vsconfig
+/obj/Debug
+*.csproj
