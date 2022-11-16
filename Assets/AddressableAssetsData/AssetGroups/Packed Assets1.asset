@@ -21,6 +21,22 @@ MonoBehaviour:
     m_Address: Blue
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: b213616dec0d85245a138c677d4f3819
+    m_Address: Assets/scaleUI.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eddac28bc9f70bd4491f683d103fe852
+    m_Address: Assets/US_Jet_Fighter_Pilot_hand_norm.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 497559dc493175745a9c9db232b0f1c1
+    m_Address: Assets/US_Jet_Fighter_Pilot_vest_norm.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bb5625f848d9c640bca5ff6d874205f
+    m_Address: Assets/world.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a7c54adf8d569c54497c624ff9e9efee, type: 2}
   m_SchemaSet:
