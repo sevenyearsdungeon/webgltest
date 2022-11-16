@@ -11,7 +11,7 @@ public class AssetLoader : MonoBehaviour
     [SerializeField] CanvasGroup group;
     [SerializeField] AssetReferenceGameObject earthPrefab, marsPrefab, moonPrefab;
     [SerializeField] Slider progressBar;
-    GameObject loadedPlanet = null;
+    [SerializeField] GameObject loadedPlanet = null;
     AsyncOperationHandle asyncHandle;
 
     private void EnableUi()
