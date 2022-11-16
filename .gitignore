@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/Library
+/Logs
+/Temp
+/UserSettings
+/WebGLTesting.sln
+/.vsconfig
