@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Planets
+  m_EditorClassIdentifier: 
+  m_GroupName: Planets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb8a9b39d84ed1b4d86c4f4197217fdc
+  m_SerializeEntries:
+  - m_GUID: d1645a990ba468f4bbcb7afd827c8463
+    m_Address: Assets/Planet Earth/Planets/Earth/Earth_16K_linear.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8184d7cbea4a65247863aae1c25c12e9
+    m_Address: Assets/Planet Earth/Planets/Earth
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90ae84c1b1603b84da6caa6ba9c45dda
+    m_Address: Assets/Planet Earth/Planets/Earth/Earth_8K.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e8ca1842f2b5ebc49b6be4df42be167a
+    m_Address: Assets/Planet Earth/Planets/Earth/Earth_16K_gamma.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b5562c67cf429a4d872c0366bb8e4e3
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_clouds_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4392107a7679e44fa0273f07df6049f
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k clouds tiles/earth_clouds_TL.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce04a69f3df19f1479ad899ecb757820
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k clouds tiles/earth_clouds_TR.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d0b61e24c709814a945398f740d98fe
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k clouds tiles/earth_clouds_BL.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92118d8cb1354f146a24c1a4d5a603ed
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k clouds tiles/earth_clouds_BR.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c681507434449a44a007311d4cb0ac1
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_clouds_height_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e8604e712412d34c86eaf377dcba269
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_clouds_shadows_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 010042142e668db4897ea696435d6a86
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_light_512_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd5532e6f6748c142a7cf60099da1cf6
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_color_512_LC.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83db04c759f2e2749b8849eb5070c9ce
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_normals_512_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5573497d3e17e8546b6b4aca95a709c0
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_spec_512.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f880d905c22d0c4eb078657b338fac2
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k night light tiles/earth_light_TL2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a704d32bfc64f624d94dad8349a4595c
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k night light tiles/earth_light_TR2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe790ff149f12184c9cb8b9a5b9d1c9b
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k night light tiles/earth_light_BL2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d27f9e8198a04d64ebe1a1177634e46a
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k night light tiles/earth_light_BR2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3074ab1d3ced204084544ecec896513
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k diffuse/earth_color_TL_low_contrast.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efc83b3b98af07f498a277cbe5e62e1b
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k diffuse/earth_color_TR_low_contrast.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6c0073ca9d323a469598e1e597959a5
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k diffuse/earth_color_BL_low_contrast.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7c6daf87d46ecd42a9c03dd6d80b123
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k diffuse/earth_color_BR_low_contrast.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c05d9e04db0126a4bb723589a49bef3f
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k normals/earth_normals_TL_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebd1ea588cb27c1468c48f9c8997cdc6
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k normals/earth_normals_TR_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85e5992790e849e41ad515bb85e50381
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k normals/earth_normals_BL_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56d26c42a8e2618448ba0b6c7027fd88
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k normals/earth_normals_BR_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4201a7d1ae4376440b67243606361e91
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_spec_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd30aec6bcbd12e4b82e2e583b7e6dff
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_light_8K2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c205eb53136d7484eb4969665cda9906
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_color_8K_LC.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 832b069de320ff245b2d3e16fc2e97b4
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/earth_normals_8K_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b17b30337210fb1448cbac75f0830483
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_normals_1K_v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3230c26e0b2694439b34d5c68886cea
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_light_1K_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ed4014eba58885439361fccc673907b
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_spec_1K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90407cec519a15b429d96af042148855
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes/earth_color_1K_LC.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02087a21d8d5b3347ba5cf4d89c9e3a1
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/Clouds.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32eea7d4d23820e4fbac39c769cc4ed9
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/CloudShadows.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3df4cb3058d03a439cbc1ee4478fdbc
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/earthGround_LowRes.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4620d2bbad484a45bc3c8fc54349998
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/SkyFromSpace.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15c0db6be75b97a4880f7e19ffae6455
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/Clouds_lite.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 675ac18a9ee8ad348ae221dc674df0c2
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/Clouds_linear.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a71980f885bd14f489553499f7a72f6a
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/earthground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a7e5cb427d25f3439f61d57e2b88c71
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/earthGround_lite.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b6aa82664aa8f940b8c7baf9ecf744e
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials/earthground_linear.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfb7b889512c3f2429890b3616cedf84
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k diffuse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3e68ac280bed86428a17ad87a2de605
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/LowRes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc5e484c34aa8be48a6ef995d5c38e4a
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k normals
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8d1235ff5d871e4897a39765b61543d
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c81e4091bbfdf94bab2bae8e48e3c03
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k clouds tiles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 090af0fe44f513344abda6cd88b9ce43
+    m_Address: Assets/Planet Earth/Planets/Earth/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d68766314b023ce46a3f84eb95ea0525
+    m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k night light tiles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ffac79e9b8c17745b1cf8990b0e7fd8
+    m_Address: Assets/Planet Earth/Planets/Mars/Mars_gamma.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58af0ec24145c2c44be3928bf0246981
+    m_Address: Assets/Planet Earth/Planets/Mars/Mars_linear.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5beeea95137da194dbf6543aea16acfb
+    m_Address: Assets/Planet Earth/Planets/Mars/Material/Mars_Ground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fec94305551d3cb439d4639bec3e203e
+    m_Address: Assets/Planet Earth/Planets/Mars/Material/Mars_Atmo.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64b0424ebfc1b2c4aacdee6a2ef1d3a3
+    m_Address: Assets/Planet Earth/Planets/Mars/Textures/mars_diffuse_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b81235c119d5c2c4c9bbae47a19df70d
+    m_Address: Assets/Planet Earth/Planets/Mars/Textures/Mars_normal_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7b37f60ef69341458b9337ce4bbb469
+    m_Address: Assets/Planet Earth/Planets/Moon/Textures/moon_normalmap.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ceb2b43dc989af48b661b7804583d8c
+    m_Address: Assets/Planet Earth/Planets/Moon/Textures/moon_diffuse_8K.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2095fadd708bbad4795daabc2bc93601
+    m_Address: Assets/Planet Earth/Planets/Moon/Moon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ec79c983dacbe84fab7afb7aba4b410
+    m_Address: Assets/Planet Earth/Planets/Moon/Materials/Moon_Ground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a7c54adf8d569c54497c624ff9e9efee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 431c3d86e22ce3649b5ef5231a4b2af7, type: 2}
+    - {fileID: 11400000, guid: 497ff36051e3a5e4e9eddaad9d98b69e, type: 2}
