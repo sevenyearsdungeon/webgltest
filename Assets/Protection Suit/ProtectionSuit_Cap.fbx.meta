@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 40486730ea630e84385cb823bf2affed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A_WM7M_Fb_NE
+    100004: A_WM7M_Hd_NH
+    100006: eyeLeft_HeadSet001
+    100008: eyeRight_HeadSet000
+    100010: GloveB
+    100012: HatC_01_01
+    100014: Head
+    100016: Head_Nub
+    100018: Hips
+    100020: LeftArm
+    100022: LeftArmRoll
+    100024: LeftEye
+    100026: LeftFoot
+    100028: LeftForeArm
+    100030: LeftForeArmRoll
+    100032: LeftHand
+    100034: LeftHandIndex1
+    100036: LeftHandIndex2
+    100038: LeftHandIndex3
+    100040: LeftHandIndex_Nub
+    100042: LeftHandMiddle1
+    100044: LeftHandMiddle2
+    100046: LeftHandMiddle3
+    100048: LeftHandMiddle_Nub
+    100050: LeftHandPinky1
+    100052: LeftHandPinky2
+    100054: LeftHandPinky3
+    100056: LeftHandPinky_Nub
+    100058: LeftHandRing1
+    100060: LeftHandRing2
+    100062: LeftHandRing3
+    100064: LeftHandRing_Nub
+    100066: LeftHandThumb1
+    100068: LeftHandThumb2
+    100070: LeftHandThumb3
+    100072: LeftHandThumb_Nub
+    100074: LeftLeg
+    100076: LeftShoulder
+    100078: LeftShoulderRoll
+    100080: LeftToe_Nub
+    100082: LeftToeBase
+    100084: LeftUpLeg
+    100086: Light1
+    100088: Light2
+    100090: Light3
+    100092: Light4
+    100094: MaskA_01
+    100096: MdressShirtA
+    100098: Neck
+    100100: Neck1
+    100102: RightArm
+    100104: RightArmRoll
+    100106: RightEye
+    100108: RightFoot
+    100110: RightForeArm
+    100112: RightForeArmRoll
+    100114: RightHand
+    100116: RightHandIndex1
+    100118: RightHandIndex2
+    100120: RightHandIndex3
+    100122: RightHandIndex_Nub
+    100124: RightHandMiddle1
+    100126: RightHandMiddle2
+    100128: RightHandMiddle3
+    100130: RightHandMiddle_Nub
+    100132: RightHandPinky1
+    100134: RightHandPinky2
+    100136: RightHandPinky3
+    100138: RightHandPinky_Nub
+    100140: RightHandRing1
+    100142: RightHandRing2
+    100144: RightHandRing3
+    100146: RightHandRing_Nub
+    100148: RightHandThumb1
+    100150: RightHandThumb2
+    100152: RightHandThumb3
+    100154: RightHandThumb_Nub
+    100156: RightLeg
+    100158: RightShoulder
+    100160: RightShoulderRoll
+    100162: RightToe_Nub
+    100164: RightToeBase
+    100166: RightUpLeg
+    100168: Spine
+    100170: Spine1
+    100172: Spine2
+    100174: Spine3
+    400000: //RootNode
+    400002: A_WM7M_Fb_NE
+    400004: A_WM7M_Hd_NH
+    400006: eyeLeft_HeadSet001
+    400008: eyeRight_HeadSet000
+    400010: GloveB
+    400012: HatC_01_01
+    400014: Head
+    400016: Head_Nub
+    400018: Hips
+    400020: LeftArm
+    400022: LeftArmRoll
+    400024: LeftEye
+    400026: LeftFoot
+    400028: LeftForeArm
+    400030: LeftForeArmRoll
+    400032: LeftHand
+    400034: LeftHandIndex1
+    400036: LeftHandIndex2
+    400038: LeftHandIndex3
+    400040: LeftHandIndex_Nub
+    400042: LeftHandMiddle1
+    400044: LeftHandMiddle2
+    400046: LeftHandMiddle3
+    400048: LeftHandMiddle_Nub
+    400050: LeftHandPinky1
+    400052: LeftHandPinky2
+    400054: LeftHandPinky3
+    400056: LeftHandPinky_Nub
+    400058: LeftHandRing1
+    400060: LeftHandRing2
+    400062: LeftHandRing3
+    400064: LeftHandRing_Nub
+    400066: LeftHandThumb1
+    400068: LeftHandThumb2
+    400070: LeftHandThumb3
+    400072: LeftHandThumb_Nub
+    400074: LeftLeg
+    400076: LeftShoulder
+    400078: LeftShoulderRoll
+    400080: LeftToe_Nub
+    400082: LeftToeBase
+    400084: LeftUpLeg
+    400086: Light1
+    400088: Light2
+    400090: Light3
+    400092: Light4
+    400094: MaskA_01
+    400096: MdressShirtA
+    400098: Neck
+    400100: Neck1
+    400102: RightArm
+    400104: RightArmRoll
+    400106: RightEye
+    400108: RightFoot
+    400110: RightForeArm
+    400112: RightForeArmRoll
+    400114: RightHand
+    400116: RightHandIndex1
+    400118: RightHandIndex2
+    400120: RightHandIndex3
+    400122: RightHandIndex_Nub
+    400124: RightHandMiddle1
+    400126: RightHandMiddle2
+    400128: RightHandMiddle3
+    400130: RightHandMiddle_Nub
+    400132: RightHandPinky1
+    400134: RightHandPinky2
+    400136: RightHandPinky3
+    400138: RightHandPinky_Nub
+    400140: RightHandRing1
+    400142: RightHandRing2
+    400144: RightHandRing3
+    400146: RightHandRing_Nub
+    400148: RightHandThumb1
+    400150: RightHandThumb2
+    400152: RightHandThumb3
+    400154: RightHandThumb_Nub
+    400156: RightLeg
+    400158: RightShoulder
+    400160: RightShoulderRoll
+    400162: RightToe_Nub
+    400164: RightToeBase
+    400166: RightUpLeg
+    400168: Spine
+    400170: Spine1
+    400172: Spine2
+    400174: Spine3
+    2100000: YM7MBikerMask
+    2100002: 'Material #3'
+    2100004: EyesMaterial
+    2100006: YM7MAParamedicGloves
+    2100008: YM7MdressShirtA
+    2100010: Material_Flannel_0001
+    2100012: A_WM7M_Hd_NH
+    2300000: eyeLeft_HeadSet001
+    2300002: eyeRight_HeadSet000
+    2300004: HatC_01_01
+    2300006: MaskA_01
+    3300000: eyeLeft_HeadSet001
+    3300002: eyeRight_HeadSet000
+    3300004: HatC_01_01
+    3300006: MaskA_01
+    4300000: MaskA_01
+    4300002: HatC_01_01
+    4300004: eyeRight_HeadSet000
+    4300006: eyeLeft_HeadSet001
+    4300008: GloveB
+    4300010: MdressShirtA
+    4300012: A_WM7M_Fb_NE
+    4300014: A_WM7M_Hd_NH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: A_WM7M_Fb_NE
+    13700002: A_WM7M_Hd_NH
+    13700004: GloveB
+    13700006: MdressShirtA
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WM7M_Hd_NH
+    second: {fileID: 2100000, guid: fd1f19ffcd11b344ab16bc3ac318b4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyesMaterial
+    second: {fileID: 2100000, guid: 2f8c20df70eb135479db63fc55a9f8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 722634a5697a4dc41a4e06594ad84989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Flannel_0001
+    second: {fileID: 2100000, guid: 135c7e27c615fe44888cc03f17184d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YM7MAParamedicGloves
+    second: {fileID: 2100000, guid: 1b3747e70b253f44997bbb41c0f06406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YM7MBikerMask
+    second: {fileID: 2100000, guid: 41c6271aa1b49234c90a765ac89a9a6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YM7MdressShirtA
+    second: {fileID: 2100000, guid: ce3decb67ee988f4490d77929b10d874, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

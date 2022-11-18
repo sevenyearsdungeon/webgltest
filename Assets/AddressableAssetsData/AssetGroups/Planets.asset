@@ -137,6 +137,10 @@ MonoBehaviour:
     m_Address: Assets/Planet Earth/Planets/Earth/Earth_16K_linear.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 48b357818bcef114b92c522f6089d136
+    m_Address: Assets/Scenes/Scene2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a7c54adf8d569c54497c624ff9e9efee, type: 2}
   m_SchemaSet:

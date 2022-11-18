@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: earthground
   m_Shader: {fileID: 4800000, guid: 9d4cfd739f07914439eedec1aa2ac5f4, type: 3}
   m_ShaderKeywords: 
@@ -141,7 +142,7 @@ Material:
     - _LightBlue: 0.35
     - _LightGreen: 0.75
     - _LightRed: 1
-    - _LightScale: 0.65
+    - _LightScale: 2
     - _NormalStrength: 0.6
     - _Parallax: 0.005
     - _Shininess: 1
@@ -160,3 +161,4 @@ Material:
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
     - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+  m_BuildTextureStacks: []
