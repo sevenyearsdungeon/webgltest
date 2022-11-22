@@ -17,18 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: bb8a9b39d84ed1b4d86c4f4197217fdc
   m_SerializeEntries:
-  - m_GUID: 32eea7d4d23820e4fbac39c769cc4ed9
-    m_Address: Assets/Planet Earth/Planets/Earth/Materials/CloudShadows.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 675ac18a9ee8ad348ae221dc674df0c2
-    m_Address: Assets/Planet Earth/Planets/Earth/Materials/Clouds_linear.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: b4620d2bbad484a45bc3c8fc54349998
-    m_Address: Assets/Planet Earth/Planets/Earth/Materials/SkyFromSpace.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: b3074ab1d3ced204084544ecec896513
     m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k diffuse/earth_color_TL_low_contrast.png
     m_ReadOnly: 0
@@ -93,14 +81,6 @@ MonoBehaviour:
     m_Address: Assets/Planet Earth/Planets/Earth/Textures/16k night light tiles/earth_light_BR2.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 5b6aa82664aa8f940b8c7baf9ecf744e
-    m_Address: Assets/Planet Earth/Planets/Earth/Materials/earthground_linear.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: fec94305551d3cb439d4639bec3e203e
-    m_Address: Assets/Planet Earth/Planets/Mars/Material/Mars_Atmo.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: b81235c119d5c2c4c9bbae47a19df70d
     m_Address: Assets/Planet Earth/Planets/Mars/Textures/Mars_normal_8K.png
     m_ReadOnly: 0
@@ -109,20 +89,12 @@ MonoBehaviour:
     m_Address: Assets/Planet Earth/Planets/Mars/Textures/mars_diffuse_8K.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 5beeea95137da194dbf6543aea16acfb
-    m_Address: Assets/Planet Earth/Planets/Mars/Material/Mars_Ground.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 9ceb2b43dc989af48b661b7804583d8c
     m_Address: Assets/Planet Earth/Planets/Moon/Textures/moon_diffuse_8K.png
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e7b37f60ef69341458b9337ce4bbb469
     m_Address: Assets/Planet Earth/Planets/Moon/Textures/moon_normalmap.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 2ec79c983dacbe84fab7afb7aba4b410
-    m_Address: Assets/Planet Earth/Planets/Moon/Materials/Moon_Ground.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 2095fadd708bbad4795daabc2bc93601
