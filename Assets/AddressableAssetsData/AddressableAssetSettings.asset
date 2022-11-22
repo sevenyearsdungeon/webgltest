@@ -80,6 +80,19 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Color
+    - Normals
+    - Lights
+    - C1
+    - C2
+    - C3
+    - C4
+    - C5
+    - C6
+    - Moon
+    - Mars
+    - Earth
+    - Other
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 5db6537a199d14f45ba4e483300fc478, type: 2}

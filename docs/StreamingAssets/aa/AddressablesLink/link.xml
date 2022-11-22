@@ -18,9 +18,9 @@
     <type fullname="UnityEngine.Material" preserve="all" />
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
-    <type fullname="UnityEngine.Mesh" preserve="all" />
-    <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.Light" preserve="all" />
@@ -38,10 +38,14 @@
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="RotateEarth" preserve="all" />
-    <type fullname="EarthMovments" preserve="all" />
     <type fullname="Atmo" preserve="all" />
+    <type fullname="EarthMovments" preserve="all" />
     <type fullname="LoadAddressable" preserve="all" />
     <type fullname="LoadScene" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AudioListener" preserve="all" />
@@ -80,10 +84,6 @@
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
     <type fullname="UnityEngine.Canvas" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Avatar" preserve="all" />
-    <type fullname="UnityEngine.Animator" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
